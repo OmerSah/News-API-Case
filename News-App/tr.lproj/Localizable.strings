@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  News-App
+
+  Created by Ömer Faruk Şahin on 11.08.2022.
+  
+*/
+
+"NEWS_LIST_VIEW_CONTROLLER_TITLE" = "Haberler";
+
+"HOME_TAB_BAR_TITLE" = "Ev";
+
+"BOOKMARKS_VIEW_CONTROLLER_TITLE" = "Favoriler";
+
+"BOOKMARKS_TAB_BAR_TITLE" = "Favoriler";
+
+"SPLASH_SCREEN_TITLE" = "Haberler";
+
+"FILTER_FROM_TITLE" = "Şu tarihten: ";
+
+"FILTER_TO_TITLE" = "Şu tarihe: ";
+
+"FILTER_BUTTON_TITLE" = "Filtrele";
+
+"SEARCH_BAR_PLACEHOLDER" = "Haber Ara...";
+
+"FILTER_VIEW_CONTROLLER_TITLE" = "Tarihleri Seçin";
+
+"APP_LANGUAGE" = "tr";
+
+"DETAIL" = "Detay";
+
+"NEWS_SOURCE" = "Haber Kaynağı";
